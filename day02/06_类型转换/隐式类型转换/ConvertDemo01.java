@@ -1,3 +1,4 @@
+//隐式类型转换
 public class  ConvertDemo01
 {
 	public static void main(String[] args) 
