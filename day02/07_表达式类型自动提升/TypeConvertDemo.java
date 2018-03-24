@@ -1,14 +1,15 @@
+//è¡¨è¾¾å¼ç±»å‹è½¬æ¢
 public class TypeConvertDemo 
 {
 	public static void main(String[] args) 
 	{
-		//intĞÍ£¬floatĞÍ£¬longĞÍ£¬doubleĞÍ×îÖÕ×ª»»ÎªdoubleĞÍ
+		//intå‹ï¼Œfloatå‹ï¼Œlongå‹ï¼Œdoubleå‹æœ€ç»ˆè½¬æ¢ä¸ºdoubleå‹
 		double d = 123 + 1.1f + 12L + 3.12;
 		System.out.println(d);
 
 
 		byte b = 23;
-		b = (byte)(b + 23);//´íÎó: ¿ÉÄÜËğÊ§¾«¶È,23Ä¬ÈÏÊÇintÀàĞÍ£¬×ª»»ÎªbyteÀàĞÍÓ¦ÓÃÇ¿ÖÆÀàĞÍ×ª»»
+		b = (byte)(b + 23);//é”™è¯¯: å¯èƒ½æŸå¤±ç²¾åº¦,23é»˜è®¤æ˜¯intç±»å‹ï¼Œè½¬æ¢ä¸ºbyteç±»å‹åº”ç”¨å¼ºåˆ¶ç±»å‹è½¬æ¢
 		System.out.println(b);
 	}
 }
