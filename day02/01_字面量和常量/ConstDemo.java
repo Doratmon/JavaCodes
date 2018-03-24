@@ -1,14 +1,13 @@
-//需求：打印常量
+//闇�姹傦細鎵撳嵃甯搁噺
 public class ConstDemo
 {
 	public static void main(String[]args)
 	{
-		//打印字面值：123
+		//鎵撳嵃瀛楅潰鍊硷細123
 		System.out.println(123);
-		//打印字面值：true
+		//鎵撳嵃瀛楅潰鍊硷細true
 		System.out.println(true);
-		//打印字面值：false
+		//鎵撳嵃瀛楅潰鍊硷細false
 		System.out.println(false);
-		System.out.println(33);
 	}
 }
