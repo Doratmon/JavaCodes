@@ -9,5 +9,6 @@ public class ConstDemo
 		System.out.println(true);
 		//´òÓ¡×ÖÃæÖµ£ºfalse
 		System.out.println(false);
+		System.out.println(33);
 	}
 }
