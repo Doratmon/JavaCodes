@@ -1,3 +1,4 @@
+//æ˜¾ç¤ºç±»å‹è½¬æ¢
 public class ConvertDemo02 
 {
 	public static void main(String[] args) 
@@ -6,9 +7,9 @@ public class ConvertDemo02
 		long l = (long)i;
 		System.out.println(l);
 
-		//23Ä¬ÈÏÊÇintÀàĞÍ
-		//°ÑÒ»¸öintÀàĞÍ³£Á¿Ö±½Ó¸³¸øbyteÀàĞÍ
-		//±àÒëÆ÷·¢ÏÖ23ÔÚbyteµÄ·¶Î§Ö®ÄÚ£¬ÔÚµ×²ãÍµÍµ×ª»»ÁË
+		//23é»˜è®¤æ˜¯intç±»å‹
+		//æŠŠä¸€ä¸ªintç±»å‹å¸¸é‡ç›´æ¥èµ‹ç»™byteç±»å‹
+		//ç¼–è¯‘å™¨å‘ç°23åœ¨byteçš„èŒƒå›´ä¹‹å†…ï¼Œåœ¨åº•å±‚å·å·è½¬æ¢äº†
 		byte b = 23;
 	}
 }
