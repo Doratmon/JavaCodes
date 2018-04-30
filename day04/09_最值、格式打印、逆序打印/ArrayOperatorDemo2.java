@@ -41,9 +41,9 @@ public class ArrayOperatorDemo2
 	{
 		String[] newStr = new String[oldStr.length];
 		/*oldStr    newStr
-			3			0
-			2			1
-			1			2
+			2			0
+			1			1
+			0			2
 		*/
 		for(int index = oldStr.length - 1; index >= 0; index --)
 		{
