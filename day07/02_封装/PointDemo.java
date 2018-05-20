@@ -49,7 +49,7 @@ public class PointDemo {
     public static void main(String[] args){
         Point p = new Point(3,4);//圆心坐标为(3,4)
         Circle c = new Circle(5);//圆半径为5
-        int ret = c.judge(p);
+        int ret = c.judge(p);//将结果赋给ret
         System.out.println(ret);
     }
 }
