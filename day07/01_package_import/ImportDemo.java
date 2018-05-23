@@ -1,12 +1,12 @@
-import java.util.*;//å¯¼å…¥åœ¨ç±»ImportDemoä¸­ä½¿ç”¨åˆ°çš„ç±»
+import java.util.*;//µ¼ÈëÔÚÀàImportDemoÖĞÊ¹ÓÃµ½µÄÀà
 public class ImportDemo
 {
 	public static void main(String[] args)
 	{
 		int[] arr = new int[]{4,1,8,2,1,5,7};
-		//String ret = Arrays.toString(arr);//å°†int[]ç±»å‹çš„æ•°ç»„è½¬æ¢ä¸ºå­—ç¬¦ä¸²
+		//String ret = Arrays.toString(arr);//½«int[]ÀàĞÍµÄÊı×é×ª»»Îª×Ö·û´®
 		//System.out.println(ret);
-		Arrays.sort(arr);//å¯¹æ•°ç»„arrè¿›è¡Œå‡åºæ’åº
+		Arrays.sort(arr);//¶ÔÊı×éarr½øĞĞÉıĞòÅÅĞò
 		String ret = Arrays.toString(arr);
 		System.out.println(ret);
 
