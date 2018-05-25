@@ -1,29 +1,30 @@
+
 class Animal
 {
 	void eat()
 	{
-		System.out.println("³ÔÒ»°ãµÄÊ³Îï");
+		System.out.println("åƒä¸€èˆ¬çš„é£Ÿç‰©");
 	}
 }
 class Dog extends Animal
 {
 	void eat()
 	{
-		System.out.println("³Ô¹ÇÍ·");
+		System.out.println("åƒéª¨å¤´");
 	}
 }
 class Cat extends Animal
 {
 	void eat()
 	{
-		System.out.println("³ÔÓã");
+		System.out.println("åƒé±¼");
 	}
 }
 public class AnimalDemo 
 {
 	public static void main(String[] args) 
 	{
-		//¶àÌ¬,±àÒëÀàĞÍºÍÔËĞĞÀàĞÍ²»ÏàÍ¬£¬ÒÔÏÂÕâÖÖÇé¿öÊÇ±àÒëÀàĞÍÊÇÔËĞĞÀàĞÍµÄ¸¸Àà
+		//å¤šæ€,ç¼–è¯‘ç±»å‹å’Œè¿è¡Œç±»å‹ä¸ç›¸åŒï¼Œä»¥ä¸‹è¿™ç§æƒ…å†µæ˜¯ç¼–è¯‘ç±»å‹æ˜¯è¿è¡Œç±»å‹çš„çˆ¶ç±»
 		Animal a = new Dog();
 		Animal b = new Cat();
 		a.eat();
