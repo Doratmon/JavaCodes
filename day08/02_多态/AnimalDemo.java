@@ -1,15 +1,16 @@
+
 class Animal
 {
 	void eat()
 	{
-		System.out.println("³ÔÒ»°ãµÄÊ³Îï");
+		System.out.println("åƒä¸€èˆ¬çš„é£Ÿç‰©");
 	}
 }
 class Dog extends Animal
 {
 	void eat()
 	{
-		System.out.println("³Ô¹ÇÍ·");
+		System.out.println("åƒéª¨å¤´");
 	}
 }
 class Person//ËÇÑøÔ±
@@ -34,13 +35,14 @@ class Cat extends Animal
 {
 	void eat()
 	{
-		System.out.println("³ÔÓã");
+		System.out.println("åƒé±¼");
 	}
 }
 public class AnimalDemo 
 {
 	public static void main(String[] args) 
 	{
+<<<<<<< HEAD
 		//¶àÌ¬,±àÒëÀàĞÍºÍÔËĞĞÀàĞÍ²»ÏàÍ¬£¬ÒÔÏÂÕâÖÖÇé¿öÊÇ±àÒëÀàĞÍÊÇÔËĞĞÀàĞÍµÄ¸¸Àà
 		//Animal a = new Dog();
 		//Animal b = new Cat();
@@ -51,5 +53,12 @@ public class AnimalDemo
 		p.feed(c);
 
 		
+=======
+		//å¤šæ€,ç¼–è¯‘ç±»å‹å’Œè¿è¡Œç±»å‹ä¸ç›¸åŒï¼Œä»¥ä¸‹è¿™ç§æƒ…å†µæ˜¯ç¼–è¯‘ç±»å‹æ˜¯è¿è¡Œç±»å‹çš„çˆ¶ç±»
+		Animal a = new Dog();
+		Animal b = new Cat();
+		a.eat();
+		b.eat();
+>>>>>>> 1e5dea9230ced5267e6cabd8042a7d95037548c2
 	}
 }
