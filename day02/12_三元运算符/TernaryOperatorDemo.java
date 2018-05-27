@@ -1,28 +1,28 @@
-//ÈıÔªÔËËã·û
+//ä¸‰å…ƒè¿ç®—ç¬¦
 public class TernaryOperatorDemo 
 {
 	public static void main(String[] args) 
 	{
-		//ÅĞ¶ÏÆæÅ¼Êı
+		//åˆ¤æ–­å¥‡å¶æ•°
 		int i = 33;
-		String re = i % 2 ==0 ? "Å¼Êı":"ÆæÊı";
-		System.out.println("iÊÇ"+re);
+		String re = i % 2 ==0 ? "å¶æ•°":"å¥‡æ•°";
+		System.out.println("iæ˜¯"+re);
 
 
 
-		//ÇóÉÏÒ»Ò³
+		//æ±‚ä¸Šä¸€é¡µ
 		/*
 		int currentPage = 23;
-		int prePage = currentPage > 1 ? currentPage - 1 : 1;//Èç¹ûµ±Ç°Ò³²»ÊÇµÚÒ»Ò³£¬Ôò¼õÒ»ÎªÇ°Ò»Ò³£¬Èç¹ûµ±Ç°Ò³ÊÇµÚÒ»Ò³£¬ÔòÇ°Ò»Ò³ÈÔÎª1
+		int prePage = currentPage > 1 ? currentPage - 1 : 1;//å¦‚æœå½“å‰é¡µä¸æ˜¯ç¬¬ä¸€é¡µï¼Œåˆ™å‡ä¸€ä¸ºå‰ä¸€é¡µï¼Œå¦‚æœå½“å‰é¡µæ˜¯ç¬¬ä¸€é¡µï¼Œåˆ™å‰ä¸€é¡µä»ä¸º1
 		System.out.println(prePage);
 
 		*/
 		
 
-		//ÇóÏÂÒ»Ò³
+		//æ±‚ä¸‹ä¸€é¡µ
 		int currentPage = 50;
 		int totalPage = 50;
-		int nextPage = currentPage < totalPage ? currentPage + 1 : currentPage;//Èç¹ûµ±Ç°Ò³²»ÊÇ×îºóÒ»Ò³£¬Ôò¼ÓÒ»ÎªºóÒ»Ò³£¬Èç¹ûµ±Ç°Ò³ÊÇ×îºóÒ»Ò³£¬ÔòºóÒ»Ò³ÈÔÎª×îºóÒ»Ò³
+		int nextPage = currentPage < totalPage ? currentPage + 1 : currentPage;//å¦‚æœå½“å‰é¡µä¸æ˜¯æœ€åä¸€é¡µï¼Œåˆ™åŠ ä¸€ä¸ºåä¸€é¡µï¼Œå¦‚æœå½“å‰é¡µæ˜¯æœ€åä¸€é¡µï¼Œåˆ™åä¸€é¡µä»ä¸ºæœ€åä¸€é¡µ
 		System.out.println(nextPage);
 	}
 }

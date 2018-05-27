@@ -1,4 +1,4 @@
-//×Ö·ûÀàĞÍ
+//å­—ç¬¦ç±»å‹
 public class CharDemo 
 {
 	public static void main(String[] args) 
@@ -9,11 +9,11 @@ public class CharDemo
 		char c2 = 65;
 		System.out.println(c2);
 
-		//±ØĞëÒª²¹Áã
+		//å¿…é¡»è¦è¡¥é›¶
 		char c3 = '\u0041';
 		System.out.println(c3);
 
-		char data = '¸ç';
+		char data = 'å“¥';
 		System.out.println(data);
 	}
 }

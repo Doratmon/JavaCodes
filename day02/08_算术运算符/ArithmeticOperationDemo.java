@@ -1,4 +1,4 @@
-//ËãÊõÔËËã·û
+//ç®—æœ¯è¿ç®—ç¬¦
 public class ArithmeticOperationDemo 
 {
 	public static void main(String[] args) 
@@ -7,19 +7,19 @@ public class ArithmeticOperationDemo
 
 		System.out.println("AB" + "CD");
 
-		System.out.println(10 / 3);//½á¹ûÎª3
+		System.out.println(10 / 3);//ç»“æœä¸º3
 
-		//System.out.println(10 / 0);//ArithmeticException: / by zero ³ıÁãÒì³£
+		//System.out.println(10 / 0);//ArithmeticException: / by zero é™¤é›¶å¼‚å¸¸
 
-		System.out.println(10.0 / 0);//Infinity--ÕıÎŞÇî´ó
+		System.out.println(10.0 / 0);//Infinity--æ­£æ— ç©·å¤§
 
-		System.out.println(-10.0 / 0);//-Infinity--¸ºÎŞÇî´ó
+		System.out.println(-10.0 / 0);//-Infinity--è´Ÿæ— ç©·å¤§
 
-		System.out.println(0.0 / 0.0);//NaN--²»ÊÇÒ»¸öÊı£¬Not a Number
+		System.out.println(0.0 / 0.0);//NaN--ä¸æ˜¯ä¸€ä¸ªæ•°ï¼ŒNot a Number
 
 
 		double d = 0.0 / 0.0;
-		System.out.println(d == d);//½á¹ûÎªfalse£¬²»ÊÇÒ»¸öÊı£¬×Ô¼º²»µÈÓÚ×Ô¼º
+		System.out.println(d == d);//ç»“æœä¸ºfalseï¼Œä¸æ˜¯ä¸€ä¸ªæ•°ï¼Œè‡ªå·±ä¸ç­‰äºè‡ªå·±
 
 	}
 }

@@ -1,18 +1,18 @@
-//¸¡µãÊı
+//æµ®ç‚¹æ•°
 public class FpDemo
 {
 	public static void main(String[] args) 
 	{
-		//µ¥¾«¶ÈfloatÀàĞÍºóĞèÒª¼ÓÉÏf»òÕßF
+		//å•ç²¾åº¦floatç±»å‹åéœ€è¦åŠ ä¸Šfæˆ–è€…F
 		float a = 2.3f;
 		System.out.println(a);
 
 
-		//Ë«¾«¶ÈdoubleÀàĞÍºó¿ÉÊ¡ÂÔd»òD
+		//åŒç²¾åº¦doubleç±»å‹åå¯çœç•¥dæˆ–D
 		double b = 3.45;
 		System.out.println(b);
 
-		//¾«È·µ½Ò»¶¨³Ì¶ÈÊ±¼´Ê¹doubleÒ²»áÉ¥Ê§¾«¶È
+		//ç²¾ç¡®åˆ°ä¸€å®šç¨‹åº¦æ—¶å³ä½¿doubleä¹Ÿä¼šä¸§å¤±ç²¾åº¦
 		double c = 2.00000000000000003;
 		double d = 3.39999999999000000;
 		System.out.println(c + d);

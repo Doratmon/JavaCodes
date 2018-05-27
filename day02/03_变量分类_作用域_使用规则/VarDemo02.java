@@ -1,11 +1,11 @@
-//±äÁ¿·ÖÀà-×÷ÓÃÓò-Ê¹ÓÃ¹æÔò
+//å˜é‡åˆ†ç±»-ä½œç”¨åŸŸ-ä½¿ç”¨è§„åˆ™
 /*
-³ÉÔ±±äÁ¿/×Ö¶Î(Field)£ºÖ±½Ó¶¨ÒåÔÚÀàµÄ{}ÖÐ£¬·½·¨ÍâµÄ±äÁ¿
-¾Ö²¿±äÁ¿£º´¦Àí³ÉÔ±±äÁ¿
+æˆå‘˜å˜é‡/å­—æ®µ(Field)ï¼šç›´æŽ¥å®šä¹‰åœ¨ç±»çš„{}ä¸­ï¼Œæ–¹æ³•å¤–çš„å˜é‡
+å±€éƒ¨å˜é‡ï¼šå¤„ç†æˆå‘˜å˜é‡
 
-±äÁ¿µÄ×÷ÓÃÓò£º¿ÉÒÔÆð×÷ÓÃµÄÁìÓò
-	³ÉÔ±±äÁ¿£ºÔÚËù¶¨ÒåµÄÀàÖÐÆð×÷ÓÃ
-	¾Ö²¿±äÁ¿£º´Ó¶¨ÒåµÄÄÇÒ»¸öµØ·½ºÅ¿ªÊ¼£¬µ½½ô¸ú×ÅµÄ»¨À¨ºÅ½áÊø
+å˜é‡çš„ä½œç”¨åŸŸï¼šå¯ä»¥èµ·ä½œç”¨çš„é¢†åŸŸ
+	æˆå‘˜å˜é‡ï¼šåœ¨æ‰€å®šä¹‰çš„ç±»ä¸­èµ·ä½œç”¨
+	å±€éƒ¨å˜é‡ï¼šä»Žå®šä¹‰çš„é‚£ä¸€ä¸ªåœ°æ–¹å·å¼€å§‹ï¼Œåˆ°ç´§è·Ÿç€çš„èŠ±æ‹¬å·ç»“æŸ
   
 */
 public class VarDemo02  
@@ -15,12 +15,12 @@ public class VarDemo02
 	public static void main(String[] args) 
 	{
 		/*
-			±¨´í£º´íÎó: ÎÞ·¨´Ó¾²Ì¬ÉÏÏÂÎÄ(»·¾³)ÖÐÒýÓÃ·Ç¾²Ì¬ ±äÁ¿ a
-			½â¾ö·½·¨£ºÔÚintÖ®Ç°¼ÓÉÏstatic
+			æŠ¥é”™ï¼šé”™è¯¯: æ— æ³•ä»Žé™æ€ä¸Šä¸‹æ–‡(çŽ¯å¢ƒ)ä¸­å¼•ç”¨éžé™æ€ å˜é‡ a
+			è§£å†³æ–¹æ³•ï¼šåœ¨intä¹‹å‰åŠ ä¸Šstatic
 			System.out.println(a);
 		*/
 		int a = 3;
-		//Êä³ö½á¹ûÎª3£¬¾Í½üÔ­Ôò
+		//è¾“å‡ºç»“æžœä¸º3ï¼Œå°±è¿‘åŽŸåˆ™
 		System.out.println(a);
 	}
 	/*

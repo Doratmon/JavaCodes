@@ -1,4 +1,4 @@
-//BoolenÀàĞÍ
+//Boolenç±»å‹
 public class BooleanDemo
 {
 	public static void main(String[] args)
@@ -6,7 +6,7 @@ public class BooleanDemo
 		Boolean a = true;
 		System.out.println(a);
 
-		//ÔÚJavaÖĞBooleanÀàĞÍÖ»ÄÜÓÃtrueºÍfalse±íÊ¾£¬²»ÄÜÓÃ0ºÍ1£¬²»¹ıÔÚJVMÖĞÓÃ0ºÍ1±íÊ¾
+		//åœ¨Javaä¸­Booleanç±»å‹åªèƒ½ç”¨trueå’Œfalseè¡¨ç¤ºï¼Œä¸èƒ½ç”¨0å’Œ1ï¼Œä¸è¿‡åœ¨JVMä¸­ç”¨0å’Œ1è¡¨ç¤º
 		/*
 		Boolean b=0;
 		System.out.println(a);

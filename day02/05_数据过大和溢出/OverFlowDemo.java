@@ -1,16 +1,16 @@
-//Êı¾İ¹ı´óºÍÒç³ö
+//æ•°æ®è¿‡å¤§å’Œæº¢å‡º
 public class OverFlowDemo
 {
 	public static void main(String[] args) 
 	{
-		//intÀàĞÍÊı¾İµÄ×î´óÖµ
+		//intç±»å‹æ•°æ®çš„æœ€å¤§å€¼
 		int intMax = 2147483647;
 		System.out.println(intMax);
 
 		intMax = intMax + 1;
 		System.out.println(intMax);
 		
-		//intÊı¾İÀàĞÍµÄ×îĞ¡Öµ
+		//intæ•°æ®ç±»å‹çš„æœ€å°å€¼
 		int intMin = -2147483648;
 		System.out.println(intMin);
 

@@ -1,26 +1,26 @@
-//×Ö·û´®
+//å­—ç¬¦ä¸²
 public class StringDemo 
 {
 	public static void main(String[] args) 
 	{
-		//StringµÄ³£Á¿
+		//Stringçš„å¸¸é‡
 		System.out.println("Hello World!");
-		//StringµÄ±äÁ¿
-		String name = "Àî»ª";
+		//Stringçš„å˜é‡
+		String name = "æå";
 		System.out.println("name =" +name);
-		//Êä³ö"Hello"
+		//è¾“å‡º"Hello"
 		System.out.println("\"Hello\"");
 
-		name="ÎÒÊÇ"+"jack";
+		name="æˆ‘æ˜¯"+"jack";
 		System.out.println("name =" +name);
 		System.out.println("----------------------");
-		System.out.println(7+8+"Hello World!");//Êä³ö15Hello World!
-		System.out.println("Hello World!"+7+8);//Êä³öHello World!78
-		System.out.println(7+"Hello World!"+8);//Êä³ö7Hello World!8
+		System.out.println(7+8+"Hello World!");//è¾“å‡º15Hello World!
+		System.out.println("Hello World!"+7+8);//è¾“å‡ºHello World!78
+		System.out.println(7+"Hello World!"+8);//è¾“å‡º7Hello World!8
 
 		String str = 17+"abc";
 		System.out.println(str);
-		//str = (String)17+"abc";//±àÒë´íÎó£º²»¿É×ª»»µÄÀàĞÍ
+		//str = (String)17+"abc";//ç¼–è¯‘é”™è¯¯ï¼šä¸å¯è½¬æ¢çš„ç±»å‹
 
 	}
 }

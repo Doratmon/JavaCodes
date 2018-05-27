@@ -1,14 +1,14 @@
-//++¡¢--ÔËËã·û
+//++ã€--è¿ç®—ç¬¦
 class ArithmeticOperationDemo01 
 {
 	public static void main(String[] args) 
 	{
 		int a1 = 2;
-		int b1 = a1++;//a1¼ÓÒ»È»ºó½«Ô­Ê¼Öµ¸³Öµ¸øb1£¬Ô­Ê¼ÖµÎª2
+		int b1 = a1++;//a1åŠ ä¸€ç„¶åå°†åŸå§‹å€¼èµ‹å€¼ç»™b1ï¼ŒåŸå§‹å€¼ä¸º2
 		System.out.println("a1:"+a1+" "+"b1:"+b1);
 
 		int a2 = 2;
-		int b2 = ++a2;//a2¼ÓÒ»È»ºó½«×Ô¼ÓºóµÄ½á¹û¸³¸øb2
+		int b2 = ++a2;//a2åŠ ä¸€ç„¶åå°†è‡ªåŠ åçš„ç»“æœèµ‹ç»™b2
 		System.out.println("a2:"+a2+" "+"b2:"+b2);
 
 
