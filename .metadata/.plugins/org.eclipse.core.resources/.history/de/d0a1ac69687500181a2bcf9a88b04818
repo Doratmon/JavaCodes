@@ -1,0 +1,9 @@
+package com._520it._01_input;
+
+import java.io.Console;
+public class Console {
+	public static void main(String[] args){
+		Console console = System.console();
+	}
+
+}
