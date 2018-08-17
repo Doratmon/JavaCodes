@@ -1,0 +1,22 @@
+package com._520it.eclipse;
+
+import java.util.List;
+import java.util.Set;
+
+public class Tiger implements IWalkable {
+
+	@Override
+	public void walk() {
+		// TODO Auto-generated method stub
+		System.out.print(8);
+		dowork();
+	}
+
+	List l = null;
+ 
+	private void dowork() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

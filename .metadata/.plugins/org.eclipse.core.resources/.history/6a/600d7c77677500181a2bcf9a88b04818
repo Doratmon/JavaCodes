@@ -1,9 +1,0 @@
-package com._520it._01_input;
-
-
-public class Console {
-	public static void main(String[] args){
-		Console 
-	}
-
-}

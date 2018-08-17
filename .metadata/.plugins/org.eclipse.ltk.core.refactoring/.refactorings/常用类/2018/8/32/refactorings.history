@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com._520it._02_System&apos; to &apos;com._520it._02_system&apos;&#x0A;- Original project: &apos;常用类&apos;&#x0A;- Original element: &apos;常用类/src/com._520it._02_System&apos;&#x0A;- Renamed element: &apos;常用类/src/com._520it._02_system&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com._520it._02_System&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com._520it._02_System" name="com._520it._02_system" qualified="false" references="true" stamp="1533779967893" textual="false" version="1.0"/>
+</session>

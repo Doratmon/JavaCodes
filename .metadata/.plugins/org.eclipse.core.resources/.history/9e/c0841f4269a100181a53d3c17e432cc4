@@ -1,0 +1,13 @@
+package com._520it._04_charsequence;
+
+//StringBuilder中的常用方法
+public class StringBuilderDemo {
+	public static void main(String[] args) {
+		StringBuilder sb1 = new StringBuilder();//和new StringBuilder(16)一样
+		//append方法拼接字符 返回对象本身
+		sb1.append("A").append("B");
+		System.out.println(sb1);
+		
+	}
+
+}

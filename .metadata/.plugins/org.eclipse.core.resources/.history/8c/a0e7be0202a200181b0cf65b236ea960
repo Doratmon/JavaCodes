@@ -1,0 +1,12 @@
+package com._520it._05_random;
+
+import java.util.UUID;
+
+//生成一个五位的验证码
+public class RandomNumDemo {
+	public static void main(String[] args) {
+		String str = UUID.randomUUID().toString();
+		str = str.substring(0, 5);
+		System.out.println(str);
+	}
+}
