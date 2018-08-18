@@ -2,4 +2,7 @@
 <typeInfoHistroy>
 <typeInfo handle="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(System.class[System" modifiers="49" timestamp="1428721914000"/>
 <typeInfo handle="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(StringBuffer.class[StringBuffer" modifiers="49" timestamp="1428721914000"/>
+<typeInfo handle="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util.concurrent(ThreadLocalRandom.class[ThreadLocalRandom" modifiers="33" timestamp="1428721914000"/>
+<typeInfo handle="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util(Date.class[Date" modifiers="33" timestamp="1428721914000"/>
+<typeInfo handle="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.text(DateFormat.class[DateFormat" modifiers="1057" timestamp="1428721914000"/>
 </typeInfoHistroy>

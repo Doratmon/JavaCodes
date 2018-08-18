@@ -1,0 +1,17 @@
+package com._520it._06_date;
+
+import java.text.DateFormat;
+import java.util.Date;
+
+public class DateFormatDemo {
+	public static void main(String[] args) {
+		Date date = new Date();
+		DateFormat df = DateFormat.getInstance();//获取为日期和时间使用 SHORT 风格的默认日期/时间格式器。
+		String str = df.format(date);//将一个 Date 格式化为日期/时间字符串。
+		System.out.println(str);
+		
+		df=DateFormat.getDateTimeInstance();
+		System.out.println(df.format(date));
+	}
+
+}

@@ -12,7 +12,7 @@
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="OpenExplorer.actionSet" itemType="typeToolBarContribution" x="46" y="36"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="122" y="36"/>
-<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="80" y="36"/>
 <coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="88" y="36"/>
@@ -40,74 +40,29 @@
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
-<part id="13"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IWalkable.java" partName="IWalkable.java" path="/home/ethan/JavaCodes/day11-Eclipse/src/com/_520it/eclipse/IWalkable.java" title="IWalkable.java" tooltip="day11-Eclipse/src/com/_520it/eclipse/IWalkable.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/day11-Eclipse/src/com/_520it/eclipse/IWalkable.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="57" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CalendarDemo.java" partName="CalendarDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_06_date/CalendarDemo.java" title="CalendarDemo.java" tooltip="常用类/src/com/_520it/_06_date/CalendarDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_06_date/CalendarDemo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="446" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Tiger.java" partName="Tiger.java" path="/home/ethan/JavaCodes/day11-Eclipse/src/com/_520it/eclipse/Tiger.java" title="Tiger.java" tooltip="day11-Eclipse/src/com/_520it/eclipse/Tiger.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/day11-Eclipse/src/com/_520it/eclipse/Tiger.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="392" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerDemo.java" partName="ScannerDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_01_input/ScannerDemo.java" title="ScannerDemo.java" tooltip="常用类/src/com/_520it/_01_input/ScannerDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_01_input/ScannerDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="341" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="System.class" partName="System.class" title="System.class" tooltip="java.lang.System" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(System.class"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1717" selectionTopPixel="807"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SystemDemo.java" partName="SystemDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_02_system/SystemDemo.java" title="SystemDemo.java" tooltip="常用类/src/com/_520it/_02_system/SystemDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_02_system/SystemDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="909" selectionTopPixel="546"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsoleDemo.java" partName="ConsoleDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_01_input/ConsoleDemo.java" title="ConsoleDemo.java" tooltip="常用类/src/com/_520it/_01_input/ConsoleDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_01_input/ConsoleDemo.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleDateFormatDemo.java" partName="SimpleDateFormatDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java" title="SimpleDateFormatDemo.java" tooltip="常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MathDemo.java" partName="MathDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_03_math/MathDemo.java" title="MathDemo.java" tooltip="常用类/src/com/_520it/_03_math/MathDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_03_math/MathDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="292" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DateFormatDemo.java" partName="DateFormatDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_06_date/DateFormatDemo.java" title="DateFormatDemo.java" tooltip="常用类/src/com/_520it/_06_date/DateFormatDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_06_date/DateFormatDemo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="681" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BigDecimalDemo.java" partName="BigDecimalDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_03_math/BigDecimalDemo.java" title="BigDecimalDemo.java" tooltip="常用类/src/com/_520it/_03_math/BigDecimalDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_03_math/BigDecimalDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="264" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DateDemo.java" partName="DateDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_06_date/DateDemo.java" title="DateDemo.java" tooltip="常用类/src/com/_520it/_06_date/DateDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_06_date/DateDemo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="71"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringDemo1.java" partName="StringDemo1.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_04_charsequence/StringDemo1.java" title="StringDemo1.java" tooltip="常用类/src/com/_520it/_04_charsequence/StringDemo1.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_04_charsequence/StringDemo1.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="269" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="StringBuffer.class" partName="StringBuffer.class" title="StringBuffer.class" tooltip="java.lang.StringBuffer" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(StringBuffer.class"/>
-<editorState selectionHorizontalPixel="0" selectionLength="21" selectionOffset="2913" selectionTopPixel="1500"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringDemo3.java" partName="StringDemo3.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_04_charsequence/StringDemo3.java" title="StringDemo3.java" tooltip="常用类/src/com/_520it/_04_charsequence/StringDemo3.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_04_charsequence/StringDemo3.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="297" selectionTopPixel="260"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="StringBuilder.class" partName="StringBuilder.class" title="StringBuilder.class" tooltip="java.lang.StringBuilder" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(StringBuilder.class"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4718" selectionTopPixel="2023"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="AbstractStringBuilder.class" partName="AbstractStringBuilder.class" title="AbstractStringBuilder.class" tooltip="java.lang.AbstractStringBuilder" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(AbstractStringBuilder.class"/>
-<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="2912" selectionTopPixel="1760"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringBuilderDemo.java" partName="StringBuilderDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_04_charsequence/StringBuilderDemo.java" title="StringBuilderDemo.java" tooltip="常用类/src/com/_520it/_04_charsequence/StringBuilderDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_04_charsequence/StringBuilderDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="203" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegexDemo.java" partName="RegexDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_07_regex/RegexDemo.java" title="RegexDemo.java" tooltip="常用类/src/com/_520it/_07_regex/RegexDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_07_regex/RegexDemo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="483" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -195,7 +150,7 @@
 </view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="Ethan">
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="Ethan">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor descriptor="org.eclipse.jdt.ui.JavaPerspective" id="Ethan" label="Ethan"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -256,6 +211,7 @@
 <view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
 <fastViewBars/>
 <layout>
 <mainWindow>
@@ -283,16 +239,17 @@
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
 <page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
-<page content="org.eclipse.debug.ui.DebugView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
 </presentation>
 </folder>
 </info>
@@ -469,31 +426,22 @@
 <view id="org.eclipse.debug.ui.BreakpointView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <fastViewBars/>
-<layout>
-<mainWindow>
-<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
-<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
 <page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7497207" ratioLeft="671" ratioRight="224" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7497207" ratioLeft="671" ratioRight="224" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
@@ -501,30 +449,23 @@
 <page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
 <page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
 <page content="org.eclipse.wst.xsl.jaxp.debug.ui.view1" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.4485842" ratioLeft="301" ratioRight="370" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
-<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">
-<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
 <page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
 <page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
 <page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
@@ -536,161 +477,167 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_03_math/MathDemo.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_03_math/BigDecimalDemo.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_04_charsequence/StringDemo1.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_02_system/SystemDemo.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(StringBuffer.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_04_charsequence/StringDemo3.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(StringBuilder.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(AbstractStringBuilder.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(String.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_01_input/ConsoleDemo.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_04_charsequence/StringBuilderDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/DateDemo.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.text(DateFormat.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/DateFormatDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/CalendarDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util(Calendar.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/CalendarDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/DateFormatDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/DateDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_07_regex/RegexDemo.java"/>
 </editors>
-<item historyLabel="MathDemo.java" index="0">
-<position info="not_deleted" x="292" y="0"/>
+<item historyLabel="DateFormat.class" index="1">
+<position info="not_deleted" x="5077" y="0"/>
 </item>
-<item historyLabel="BigDecimalDemo.java" index="1">
+<item historyLabel="DateFormat.class" index="1">
+<position info="not_deleted" x="29368" y="0"/>
+</item>
+<item historyLabel="DateDemo.java" index="0">
+<position info="not_deleted" x="452" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="866" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="866" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="259" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="285" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="212" y="4"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="285" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="366" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="866" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="608" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="685" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="686" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="650" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="863" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="860" y="0"/>
+</item>
+<item historyLabel="CalendarDemo.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="BigDecimalDemo.java" index="1">
-<position info="not_deleted" x="139" y="0"/>
-</item>
-<item historyLabel="BigDecimalDemo.java" index="1">
-<position info="not_deleted" x="201" y="0"/>
-</item>
-<item historyLabel="BigDecimalDemo.java" index="1">
-<position info="not_deleted" x="610" y="0"/>
-</item>
-<item historyLabel="StringDemo1.java" index="2">
+<item historyLabel="SimpleDateFormatDemo.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="StringDemo1.java" index="2">
-<position info="not_deleted" x="428" y="0"/>
+<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<position info="not_deleted" x="338" y="0"/>
 </item>
-<item historyLabel="StringDemo1.java" index="2">
+<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<position info="not_deleted" x="435" y="0"/>
+</item>
+<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<position info="not_deleted" x="350" y="4"/>
+</item>
+<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="CalendarDemo.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DateFormat.class" index="1">
+<position info="not_deleted" x="29368" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="860" y="0"/>
+</item>
+<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="DateFormatDemo.java" index="2">
+<position info="not_deleted" x="860" y="0"/>
+</item>
+<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<position info="not_deleted" x="438" y="0"/>
+</item>
+<item historyLabel="CalendarDemo.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="CalendarDemo.java" index="3">
+<position info="not_deleted" x="369" y="0"/>
+</item>
+<item historyLabel="CalendarDemo.java" index="3">
+<position info="not_deleted" x="233" y="4"/>
+</item>
+<item historyLabel="CalendarDemo.java" index="3">
+<position info="not_deleted" x="173" y="0"/>
+</item>
+<item historyLabel="Calendar.class" index="5">
+<position info="not_deleted" x="14308" y="8"/>
+</item>
+<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<position info="not_deleted" x="438" y="0"/>
+</item>
+<item historyLabel="CalendarDemo.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="CalendarDemo.java" index="6">
 <position/>
 </item>
-<item historyLabel="StringDemo1.java" index="2">
-<position info="not_deleted" x="428" y="0"/>
+<item historyLabel="CalendarDemo.java" index="6">
+<position/>
 </item>
-<item historyLabel="StringDemo1.java" index="2">
-<position info="not_deleted" x="425" y="0"/>
-</item>
-<item historyLabel="SystemDemo.java" index="3">
-<position info="not_deleted" x="909" y="0"/>
-</item>
-<item historyLabel="StringDemo1.java" index="2">
-<position info="not_deleted" x="425" y="0"/>
-</item>
-<item historyLabel="StringBuffer.class" index="4">
-<position info="not_deleted" x="2913" y="21"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
+<item historyLabel="SimpleDateFormatDemo.java" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="862" y="0"/>
+<item historyLabel="DateFormatDemo.java" index="8">
+<position info="not_deleted" x="681" y="0"/>
 </item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="935" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="1036" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="307" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="264" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="306" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="387" y="0"/>
-</item>
-<item historyLabel="StringBuffer.class" index="4">
-<position info="not_deleted" x="2913" y="21"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="387" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="304" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="264" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="728" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="264" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="375" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="264" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="378" y="0"/>
-</item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="297" y="0"/>
-</item>
-<item historyLabel="StringBuilder.class" index="6">
-<position info="not_deleted" x="3222" y="0"/>
-</item>
-<item historyLabel="AbstractStringBuilder.class" index="7">
-<position info="not_deleted" x="1202" y="0"/>
-</item>
-<item historyLabel="StringBuilder.class" index="6">
-<position info="not_deleted" x="3222" y="0"/>
-</item>
-<item historyLabel="StringBuilder.class" index="6">
-<position info="not_deleted" x="11743" y="0"/>
-</item>
-<item historyLabel="String.class" index="8">
-<position info="not_deleted" x="6771" y="6"/>
-</item>
-<item historyLabel="StringBuilder.class" index="6">
-<position info="not_deleted" x="11743" y="0"/>
-</item>
-<item historyLabel="ConsoleDemo.java" index="9">
+<item historyLabel="SimpleDateFormatDemo.java" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="StringBuffer.class" index="4">
-<position info="not_deleted" x="2913" y="21"/>
-</item>
-<item historyLabel="StringBuilderDemo.java" index="10">
+<item historyLabel="DateDemo.java" index="9">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="StringBuilderDemo.java" index="10">
-<position info="not_deleted" x="227" y="0"/>
+<item historyLabel="CalendarDemo.java" index="6">
+<position info="not_deleted" x="446" y="0"/>
 </item>
-<item historyLabel="StringBuilder.class" index="6">
-<position info="not_deleted" x="11743" y="0"/>
+<item historyLabel="RegexDemo.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="StringBuilder.class" index="6">
-<position info="not_deleted" x="4718" y="0"/>
+<item historyLabel="RegexDemo.java" index="10">
+<position/>
 </item>
-<item historyLabel="AbstractStringBuilder.class" index="7">
-<position info="not_deleted" x="2912" y="14"/>
+<item historyLabel="RegexDemo.java" index="10">
+<position/>
 </item>
-<item historyLabel="StringBuilder.class" index="6">
-<position info="not_deleted" x="4718" y="0"/>
+<item historyLabel="RegexDemo.java" index="10">
+<position/>
 </item>
-<item historyLabel="StringDemo3.java" index="5">
-<position info="not_deleted" x="297" y="0"/>
+<item historyLabel="RegexDemo.java" index="10">
+<position/>
 </item>
-<item historyLabel="StringBuilderDemo.java" index="10">
-<position info="not_deleted" x="227" y="0"/>
+<item historyLabel="RegexDemo.java" index="10">
+<position info="not_deleted" x="317" y="0"/>
 </item>
-<item active="true" historyLabel="StringBuilderDemo.java" index="10">
-<position info="not_deleted" x="472" y="0"/>
+<item active="true" historyLabel="RegexDemo.java" index="10">
+<position info="not_deleted" x="525" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -698,14 +645,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.debug.internal.ui.ConsoleFolderView"/>
-<trimItem IMemento.internal.id="org.eclipse.debug.internal.ui.ToolsFolderView"/>
-<trimItem IMemento.internal.id="org.eclipse.debug.internal.ui.OutlineFolderView"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 <trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
@@ -718,50 +657,50 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegexDemo.java" tooltip="常用类/src/com/_520it/_07_regex/RegexDemo.java">
+<persistable path="/常用类/src/com/_520it/_07_regex/RegexDemo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DateDemo.java" tooltip="常用类/src/com/_520it/_06_date/DateDemo.java">
+<persistable path="/常用类/src/com/_520it/_06_date/DateDemo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DateFormatDemo.java" tooltip="常用类/src/com/_520it/_06_date/DateFormatDemo.java">
+<persistable path="/常用类/src/com/_520it/_06_date/DateFormatDemo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleDateFormatDemo.java" tooltip="常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java">
+<persistable path="/常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CalendarDemo.java" tooltip="常用类/src/com/_520it/_06_date/CalendarDemo.java">
+<persistable path="/常用类/src/com/_520it/_06_date/CalendarDemo.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Calendar.class" tooltip="java.util.Calendar">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util(Calendar.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="DateFormat.class" tooltip="java.text.DateFormat">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.text(DateFormat.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Date.class" tooltip="java.util.Date">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util(Date.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="UUID.class" tooltip="java.util.UUID">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util(UUID.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomNumDemo.java" tooltip="常用类/src/com/_520it/_05_random/RandomNumDemo.java">
+<persistable path="/常用类/src/com/_520it/_05_random/RandomNumDemo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UUIDDemo.java" tooltip="常用类/src/com/_520it/_05_random/UUIDDemo.java">
+<persistable path="/常用类/src/com/_520it/_05_random/UUIDDemo.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ThreadLocalRandom.class" tooltip="java.util.concurrent.ThreadLocalRandom">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util.concurrent(ThreadLocalRandom.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ThreadLocalRandomDemo.java" tooltip="常用类/src/com/_520it/_05_random/ThreadLocalRandomDemo.java">
+<persistable path="/常用类/src/com/_520it/_05_random/ThreadLocalRandomDemo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomDemo.java" tooltip="常用类/src/com/_520it/_05_random/RandomDemo.java">
+<persistable path="/常用类/src/com/_520it/_05_random/RandomDemo.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringBuilderDemo.java" tooltip="常用类/src/com/_520it/_04_charsequence/StringBuilderDemo.java">
 <persistable path="/常用类/src/com/_520it/_04_charsequence/StringBuilderDemo.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="String.class" tooltip="java.lang.String">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(String.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="AbstractStringBuilder.class" tooltip="java.lang.AbstractStringBuilder">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(AbstractStringBuilder.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="StringBuilder.class" tooltip="java.lang.StringBuilder">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(StringBuilder.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringDemo3.java" tooltip="常用类/src/com/_520it/_04_charsequence/StringDemo3.java">
-<persistable path="/常用类/src/com/_520it/_04_charsequence/StringDemo3.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="StringBuffer.class" tooltip="java.lang.StringBuffer">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(StringBuffer.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringDemo1.java" tooltip="常用类/src/com/_520it/_04_charsequence/StringDemo1.java">
-<persistable path="/常用类/src/com/_520it/_04_charsequence/StringDemo1.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BigDecimalDemo.java" tooltip="常用类/src/com/_520it/_03_math/BigDecimalDemo.java">
-<persistable path="/常用类/src/com/_520it/_03_math/BigDecimalDemo.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MathDemo.java" tooltip="常用类/src/com/_520it/_03_math/MathDemo.java">
-<persistable path="/常用类/src/com/_520it/_03_math/MathDemo.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainDemo.java" tooltip="常用类/src/com/_520it/_01_input/MainDemo.java">
-<persistable path="/常用类/src/com/_520it/_01_input/MainDemo.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsoleDemo.java" tooltip="常用类/src/com/_520it/_01_input/ConsoleDemo.java">
-<persistable path="/常用类/src/com/_520it/_01_input/ConsoleDemo.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SystemDemo.java" tooltip="常用类/src/com/_520it/_02_System/SystemDemo.java">
-<persistable path="/常用类/src/com/_520it/_02_System/SystemDemo.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="System.class" tooltip="java.lang.System">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(System.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerDemo.java" tooltip="常用类/src/com/_520it/_01_input/ScannerDemo.java">
-<persistable path="/常用类/src/com/_520it/_01_input/ScannerDemo.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Tiger.java" tooltip="day11-Eclipse/src/com/_520it/eclipse/Tiger.java">
-<persistable path="/day11-Eclipse/src/com/_520it/eclipse/Tiger.java"/>
 </file>
 </mruList>
 </workbench>
