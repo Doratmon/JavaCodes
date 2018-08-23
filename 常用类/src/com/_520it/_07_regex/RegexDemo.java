@@ -20,6 +20,11 @@ public class RegexDemo {
 		//2.运用正则表达式
 		String regex = "\\d+";//\d表示数字 +表示可以出现一次或者多次
 		System.out.println(str.matches(regex));
+		
+		//判断是否为电话号码的正则表达式
+		String phoneNum = "1345881478";
+		String regex2 = "^1[3|5|7|8|4]\\d{9}$";
+		System.out.println(phoneNum.matches(regex2));
 	}
 	public static boolean isNumber(String str){
 		for (int i = 0; i < str.length(); i++) {

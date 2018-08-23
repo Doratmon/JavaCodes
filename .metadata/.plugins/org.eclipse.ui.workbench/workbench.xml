@@ -36,39 +36,16 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CalendarDemo.java" partName="CalendarDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_06_date/CalendarDemo.java" title="CalendarDemo.java" tooltip="常用类/src/com/_520it/_06_date/CalendarDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_06_date/CalendarDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="446" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleDateFormatDemo.java" partName="SimpleDateFormatDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java" title="SimpleDateFormatDemo.java" tooltip="常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DateFormatDemo.java" partName="DateFormatDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_06_date/DateFormatDemo.java" title="DateFormatDemo.java" tooltip="常用类/src/com/_520it/_06_date/DateFormatDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_06_date/DateFormatDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="681" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DateDemo.java" partName="DateDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_06_date/DateDemo.java" title="DateDemo.java" tooltip="常用类/src/com/_520it/_06_date/DateDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_06_date/DateDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="71"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegexDemo.java" partName="RegexDemo.java" path="/home/ethan/JavaCodes/常用类/src/com/_520it/_07_regex/RegexDemo.java" title="RegexDemo.java" tooltip="常用类/src/com/_520it/_07_regex/RegexDemo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/常用类/src/com/_520it/_07_regex/RegexDemo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="483" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DaffodilsDemo.java" partName="DaffodilsDemo.java" path="/home/ethan/JavaCodes/Java50/src/com/_520it/_03_Daffodils/DaffodilsDemo.java" title="DaffodilsDemo.java" tooltip="Java50/src/com/_520it/_03_Daffodils/DaffodilsDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Java50/src/com/_520it/_03_Daffodils/DaffodilsDemo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="282" selectionTopPixel="227"/>
 </editor>
 </editors>
 <views>
-<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
-<viewState/>
-</view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>&#x0A;<category IMemento.internal.id="Errors (3 items)"/>
@@ -80,6 +57,9 @@
 <visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
 </viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
 </view>
 <view id="org.eclipse.ui.console.ConsoleView" partName="Console">
 <viewState/>
@@ -150,7 +130,7 @@
 </view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="Ethan">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="Ethan">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor descriptor="org.eclipse.jdt.ui.JavaPerspective" id="Ethan" label="Ethan"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -477,167 +457,161 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/DateDemo.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.text(DateFormat.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/DateFormatDemo.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/CalendarDemo.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util(Calendar.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/CalendarDemo.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/SimpleDateFormatDemo.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/DateFormatDemo.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_06_date/DateDemo.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/常用类/src/com/_520it/_07_regex/RegexDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Java50/src/com/_520it/_04_DecomposeInteger/DecomposePositiveIntegerDemo.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=Java50/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(Thread.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Java50/src/com/_520it/_01_Rabbit/RabbitsDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Java50/src/com/_520it/_03_Daffodils/DaffodilsDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Java50/src/com/_520it/_05_Grade/GradeDemo.java"/>
 </editors>
-<item historyLabel="DateFormat.class" index="1">
-<position info="not_deleted" x="5077" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="201" y="0"/>
 </item>
-<item historyLabel="DateFormat.class" index="1">
-<position info="not_deleted" x="29368" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="202" y="0"/>
 </item>
-<item historyLabel="DateDemo.java" index="0">
-<position info="not_deleted" x="452" y="0"/>
+<item historyLabel="Thread.class" index="1">
+<position/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="866" y="0"/>
+<item historyLabel="Thread.class" index="1">
+<position/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="866" y="0"/>
+<item historyLabel="Thread.class" index="1">
+<position/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="259" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="202" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="285" y="0"/>
+<item historyLabel="Thread.class" index="1">
+<position info="not_deleted" x="28066" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="212" y="4"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="202" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="285" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="144" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="366" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="287" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="866" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="315" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="608" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="363" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="685" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="390" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="686" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="416" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="650" y="0"/>
-</item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="863" y="0"/>
-</item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="860" y="0"/>
-</item>
-<item historyLabel="CalendarDemo.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="SimpleDateFormatDemo.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="SimpleDateFormatDemo.java" index="4">
-<position info="not_deleted" x="338" y="0"/>
-</item>
-<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
 <position info="not_deleted" x="435" y="0"/>
 </item>
-<item historyLabel="SimpleDateFormatDemo.java" index="4">
-<position info="not_deleted" x="350" y="4"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="460" y="0"/>
 </item>
-<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="315" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="363" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
 <position info="not_deleted" x="390" y="0"/>
 </item>
-<item historyLabel="CalendarDemo.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="416" y="0"/>
 </item>
-<item historyLabel="DateFormat.class" index="1">
-<position info="not_deleted" x="29368" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="435" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="860" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="460" y="0"/>
 </item>
-<item historyLabel="SimpleDateFormatDemo.java" index="4">
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="315" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="363" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
 <position info="not_deleted" x="390" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="2">
-<position info="not_deleted" x="860" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="416" y="0"/>
 </item>
-<item historyLabel="SimpleDateFormatDemo.java" index="4">
-<position info="not_deleted" x="438" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="435" y="0"/>
 </item>
-<item historyLabel="CalendarDemo.java" index="3">
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="460" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="315" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="480" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="503" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="539" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="542" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="144" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="175" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="201" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="202" y="0"/>
+</item>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="CalendarDemo.java" index="3">
-<position info="not_deleted" x="369" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="305" y="0"/>
 </item>
-<item historyLabel="CalendarDemo.java" index="3">
-<position info="not_deleted" x="233" y="4"/>
+<item historyLabel="RabbitsDemo.java" index="2">
+<position info="not_deleted" x="220" y="0"/>
 </item>
-<item historyLabel="CalendarDemo.java" index="3">
-<position info="not_deleted" x="173" y="0"/>
+<item historyLabel="DaffodilsDemo.java" index="3">
+<position info="not_deleted" x="282" y="0"/>
 </item>
-<item historyLabel="Calendar.class" index="5">
-<position info="not_deleted" x="14308" y="8"/>
-</item>
-<item historyLabel="SimpleDateFormatDemo.java" index="4">
-<position info="not_deleted" x="438" y="0"/>
-</item>
-<item historyLabel="CalendarDemo.java" index="6">
+<item historyLabel="GradeDemo.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="CalendarDemo.java" index="6">
-<position/>
+<item historyLabel="GradeDemo.java" index="4">
+<position info="not_deleted" x="174" y="0"/>
 </item>
-<item historyLabel="CalendarDemo.java" index="6">
-<position/>
+<item historyLabel="GradeDemo.java" index="4">
+<position info="not_deleted" x="177" y="0"/>
 </item>
-<item historyLabel="SimpleDateFormatDemo.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="GradeDemo.java" index="4">
+<position info="not_deleted" x="174" y="0"/>
 </item>
-<item historyLabel="DateFormatDemo.java" index="8">
-<position info="not_deleted" x="681" y="0"/>
+<item historyLabel="GradeDemo.java" index="4">
+<position info="not_deleted" x="177" y="0"/>
 </item>
-<item historyLabel="SimpleDateFormatDemo.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="GradeDemo.java" index="4">
+<position info="not_deleted" x="115" y="0"/>
 </item>
-<item historyLabel="DateDemo.java" index="9">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="DecomposePositiveIntegerDemo.java" index="0">
+<position info="not_deleted" x="377" y="82"/>
 </item>
-<item historyLabel="CalendarDemo.java" index="6">
-<position info="not_deleted" x="446" y="0"/>
+<item historyLabel="GradeDemo.java" index="4">
+<position info="not_deleted" x="115" y="0"/>
 </item>
-<item historyLabel="RegexDemo.java" index="10">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="RegexDemo.java" index="10">
-<position/>
-</item>
-<item historyLabel="RegexDemo.java" index="10">
-<position/>
-</item>
-<item historyLabel="RegexDemo.java" index="10">
-<position/>
-</item>
-<item historyLabel="RegexDemo.java" index="10">
-<position/>
-</item>
-<item historyLabel="RegexDemo.java" index="10">
-<position info="not_deleted" x="317" y="0"/>
-</item>
-<item active="true" historyLabel="RegexDemo.java" index="10">
-<position info="not_deleted" x="525" y="0"/>
+<item active="true" historyLabel="DaffodilsDemo.java" index="3">
+<position info="not_deleted" x="282" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -657,6 +631,24 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GradeDemo.java" tooltip="Java50/src/com/_520it/_05_Grade/GradeDemo.java">
+<persistable path="/Java50/src/com/_520it/_05_Grade/GradeDemo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DaffodilsDemo.java" tooltip="Java50/src/com/_520it/_03_Daffodils/DaffodilsDemo.java">
+<persistable path="/Java50/src/com/_520it/_03_Daffodils/DaffodilsDemo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RabbitsDemo.java" tooltip="Java50/src/com/_520it/_01_Rabbit/RabbitsDemo.java">
+<persistable path="/Java50/src/com/_520it/_01_Rabbit/RabbitsDemo.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Thread.class" tooltip="java.lang.Thread">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=Java50/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(Thread.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ThreadGroup.class" tooltip="java.lang.ThreadGroup">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=Java50/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.lang(ThreadGroup.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DecomposePositiveIntegerDemo.java" tooltip="Java50/src/com/_520it/_04_DecomposeInteger/DecomposePositiveIntegerDemo.java">
+<persistable path="/Java50/src/com/_520it/_04_DecomposeInteger/DecomposePositiveIntegerDemo.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegexDemo.java" tooltip="常用类/src/com/_520it/_07_regex/RegexDemo.java">
 <persistable path="/常用类/src/com/_520it/_07_regex/RegexDemo.java"/>
 </file>
@@ -683,24 +675,6 @@
 </file>
 <file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="UUID.class" tooltip="java.util.UUID">
 <persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util(UUID.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomNumDemo.java" tooltip="常用类/src/com/_520it/_05_random/RandomNumDemo.java">
-<persistable path="/常用类/src/com/_520it/_05_random/RandomNumDemo.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UUIDDemo.java" tooltip="常用类/src/com/_520it/_05_random/UUIDDemo.java">
-<persistable path="/常用类/src/com/_520it/_05_random/UUIDDemo.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ThreadLocalRandom.class" tooltip="java.util.concurrent.ThreadLocalRandom">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=常用类/\/home\/ethan\/jdk\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.util.concurrent(ThreadLocalRandom.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ThreadLocalRandomDemo.java" tooltip="常用类/src/com/_520it/_05_random/ThreadLocalRandomDemo.java">
-<persistable path="/常用类/src/com/_520it/_05_random/ThreadLocalRandomDemo.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomDemo.java" tooltip="常用类/src/com/_520it/_05_random/RandomDemo.java">
-<persistable path="/常用类/src/com/_520it/_05_random/RandomDemo.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringBuilderDemo.java" tooltip="常用类/src/com/_520it/_04_charsequence/StringBuilderDemo.java">
-<persistable path="/常用类/src/com/_520it/_04_charsequence/StringBuilderDemo.java"/>
 </file>
 </mruList>
 </workbench>
