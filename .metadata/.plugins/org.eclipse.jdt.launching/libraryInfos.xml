@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
 <libraryInfo home="D:\OpenSources\jdk1.7.0_80" version="1.7.0_80">
@@ -20,3 +21,27 @@
 </endorsedDirs>
 </libraryInfo>
 </libraryInfos>
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="/home/ethan/jdk/jdk1.7.0_80" version="1.7.0_80">
+<bootpath>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/lib/resources.jar"/>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/lib/rt.jar"/>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/lib/sunrsasign.jar"/>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/lib/jsse.jar"/>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/lib/jce.jar"/>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/lib/charsets.jar"/>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/lib/jfr.jar"/>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/ethan/jdk/jdk1.7.0_80/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
+>>>>>>> 09766ffab1e499a165e28f039822fcfbb3e741bb

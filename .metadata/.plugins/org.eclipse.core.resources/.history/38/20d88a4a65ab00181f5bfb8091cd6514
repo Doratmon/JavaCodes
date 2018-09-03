@@ -1,0 +1,17 @@
+package com._20it._02_handle;
+
+public class MultiCatchDemo {
+	public static void main(String[] args) {
+		String sNum1 = "20";
+		String sNum2 = "2b";
+		int num1 = Integer.valueOf(sNum1);
+		int num2 = Integer.valueOf(sNum2);
+		System.out.println(" the result is:" + num1 / num2);
+		/*try {
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}*/
+	}
+
+}

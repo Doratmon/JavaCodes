@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com._520it._04_DecomposePositiveIntegerDemo&apos; to &apos;com._520it._04_DecomposeInteger&apos;&#x0A;- Original project: &apos;Java50&apos;&#x0A;- Original element: &apos;Java50/src/com._520it._04_DecomposePositiveIntegerDemo&apos;&#x0A;- Renamed element: &apos;Java50/src/com._520it._04_DecomposeInteger&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com._520it._04_DecomposePositiveIntegerDemo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com._520it._04_DecomposePositiveIntegerDemo" name="com._520it._04_DecomposeInteger" qualified="false" references="true" stamp="1534954153200" textual="false" version="1.0"/>
+</session>
