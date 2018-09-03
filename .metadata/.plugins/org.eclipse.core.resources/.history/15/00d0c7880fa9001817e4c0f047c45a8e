@@ -1,0 +1,54 @@
+package com._20it._01_Why;
+
+/*问题：充斥着太多if-else语句，靠不同的返回值来判断异常情况
+ * */
+class Car{
+	public static final int OK = 1;
+	public static final int NO_OK = 0;
+	int i = 1;
+	int run(){
+		if(i == 1){
+			System.out.println("正常上班");
+			return OK;
+		}else{
+			System.out.println("汽车爆胎");
+			return NO_OK;
+		}
+	}
+}
+class Worker{
+	public static final int IN_TIME = 1;
+	public static final int LATE = 0;
+	private Car car = null;
+
+	public Worker(Car car) {
+		this.car = car;
+	}
+	int gotoWork(){
+		if(car.run() == car.OK){
+			System.out.println("正常上班，按时到");
+			return IN_TIME;
+		}else{
+			System.out.println("迟到");
+			return LATE;
+		}
+	}
+	
+}
+
+
+
+public class WhyDemo {
+	public static void main(String[] args) {
+		Car car = new Car();
+		Worker w = new Worker(car);
+		if(w.gotoWork() == w.IN_TIME){
+			System.out.println("不扣钱");
+		}else{
+			System.out.println("扣钱");
+		}
+		
+		
+	}
+
+}

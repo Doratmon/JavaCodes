@@ -1,0 +1,18 @@
+package com._520it._06;
+class Prime{
+	public static boolean isPrime(int num){
+		for (int i = 1; i <= Math.sqrt(num); i++) {
+			if(num % i == 0)
+				return false;
+		}
+		return true;
+	}
+}
+public class Example6Demo {
+	public static void main(String[] args) {
+		int num1,num2;
+		System.out.println(Prime.isPrime(3));
+		
+	}
+
+}

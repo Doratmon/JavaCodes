@@ -1,0 +1,8 @@
+package com._20it._01_Why;
+
+public class XXOODemo {
+	public static void main(String[] args) {
+		XXOODemo.main(args);
+	}
+
+}

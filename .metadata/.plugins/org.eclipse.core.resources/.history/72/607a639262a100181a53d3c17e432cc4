@@ -1,8 +1,0 @@
-package com._520it._04_charsequence;
-
-public class StringDemo3 {
-	public static void main(String[] args) {
-		
-	}
-
-}
